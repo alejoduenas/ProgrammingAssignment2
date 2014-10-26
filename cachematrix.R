@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Creates a special "matrix" object that can cache its inverse.
+## then the cachesolve should retrieve the inverse from the cache.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
